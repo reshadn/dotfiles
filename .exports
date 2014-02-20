@@ -25,10 +25,8 @@ export GREP_OPTIONS="--color=auto"
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
 # Netpulse Galaxy exports
-export NPSVR_JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home
-export NPSVR_ANT_HOME=/usr/share/ant
-export JETTY_HOME=/usr/local/jetty
+export NPSVR_JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home
 export CATALINA_HOME=/Library/Tomcat
 export CATALINA_BASE=/Library/Tomcat
 
