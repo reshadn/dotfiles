@@ -15,7 +15,6 @@ install bash
 # Install wget with IRI support
 install wget --enable-iri
 
-
 # Install more recent versions of some OS X tools
 install vim --override-system-vi
 tap homebrew/dupes
@@ -26,14 +25,6 @@ install ack
 
 #install exiv2
 install git
-install imagemagick --with-webp
-install node
-install rename
-install tree
-install webkit2png
-
-tap homebrew/versions
-install lua52
 
 # Remove outdated versions from the cellar
 cleanup
