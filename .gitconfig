@@ -95,7 +95,7 @@
 	insteadOf = "gist:"
 
 [push]
-	default = matching
+	default = simple
 [user]
 	name = Reshad Noorzay
 	email = rnoorzay@gmail.com

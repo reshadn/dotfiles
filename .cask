@@ -10,6 +10,7 @@ installcask f-lux
 installcask google-chrome
 installcask google-chrome-canary
 installcask firefox
+installcask mysqlworkbench
 installcask imagealpha
 installcask imageoptim
 installcask tor-browser
