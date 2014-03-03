@@ -24,7 +24,6 @@ install homebrew/dupes/grep
 
 # Install other useful binaries
 install ack
-#install exiv2
 install git
 install node
 
