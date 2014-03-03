@@ -1,2 +1,2 @@
 #!/bin/sh
-/Library/Tomcat/bin/catalina.sh stop
+/Library/Tomcat/bin/catalina.sh stop -force
