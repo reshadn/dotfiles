@@ -1,0 +1,16 @@
+# Install native apps
+brew tap phinze/homebrew-cask
+brew install brew-cask
+
+function installcask() {
+	brew cask install "${@}" 2> /dev/null
+}
+
+installcask f-lux
+installcask google-chrome
+installcask google-chrome-canary
+installcask firefox
+installcask imagealpha
+installcask imageoptim
+installcask tor-browser
+installcask transmission
