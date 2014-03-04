@@ -32,4 +32,4 @@ export CATALINA_BASE=/Library/Tomcat
 
 export JAVA_OPTS="-Xms756m -Xmx756m -Xss128m -Xmn512m"
 
-export PATH=$GRADLE_HOME/bin:$PATH
+export PATH=/usr/local/gradle/bin:$PATH
