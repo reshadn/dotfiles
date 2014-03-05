@@ -6,6 +6,7 @@ alias .....="cd ../../../.."
 
 # Shortcuts
 alias p="cd ~/projects"
+alias dot="cd ~/dotfiles"
 alias g="git"
 alias h="history"
 alias gfe="cd ~/netpulse/server-galaxy-front-end"
