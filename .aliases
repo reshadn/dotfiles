@@ -9,8 +9,7 @@ alias p="cd ~/projects"
 alias dot="cd ~/dotfiles"
 alias g="git"
 alias h="history"
-alias gfe="cd ~/netpulse/server-galaxy-front-end"
-alias gserver="cd ~/netpulse/server-galaxy"
+alias smb="cd ~/gfw-smb-dev"
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`

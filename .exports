@@ -24,12 +24,5 @@ export GREP_OPTIONS="--color=auto"
 # Link Homebrew casks in `/Applications` rather than `~/Applications`
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
-# Netpulse Galaxy exports
-export NPSVR_JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home
-export CATALINA_HOME=/Library/Tomcat
-export CATALINA_BASE=/Library/Tomcat
-
-export JAVA_OPTS="-Xms756m -Xmx756m -Xss128m -Xmn512m"
-
-export PATH=/usr/local/gradle/bin:$PATH
+# Link
+export PATH=/Users/reshad/Downloads/go_appengine:$PATH 
