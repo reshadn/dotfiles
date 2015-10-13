@@ -21,6 +21,3 @@ When setting up a new Mac, you may want to install some common Homebrew formulae
 You could also install native apps with [brew cask](https://github.com/phinze/homebrew-cask):
 
     ./.cask
-    
-#### Other installs (not available in cask)
-[Adobe Brackets IO](http://brackets.io/)
